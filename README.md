@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaymeenDevatka
-- 👀 I’m interested in DevOps,Django,Web Development
+- 👀 I’m interested in DevOps,MERN,Web Development,ML and Cloud
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on @amazon,@google,@paypal
 - 📫 How to reach me = jaymeendevatka@gmail.com , +91-79-905-83339
