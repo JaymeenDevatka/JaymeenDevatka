@@ -67,18 +67,10 @@
 
 ---
 
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JaymeenDevatka&theme=rogue" />
-</p>
-
----
-
 ## 💻 LeetCode & Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/JaymeenDevatka?theme=dark&font=Baloo%20Bhaijaan%202" />
+  <img src="https://leetcard.jacoblin.cool/jaymeen_devatka?theme=dark&font=Baloo%20Bhaijaan%202" />
 </p>
 
 ---
